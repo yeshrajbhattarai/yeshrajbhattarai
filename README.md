@@ -1,5 +1,11 @@
 # 💫 About Me:
-MCA graduate with a strong interest in AI, Machine Learning, and Deep Learning<br>Comfortable with Python and basic Data Science concepts<br>Currently learning Computer Vision and real-world ML model deployment<br>Enjoy building projects using Django and exploring AI integration with web apps<br>Actively improving skills through project and eager to learn new things<br>Exploring authentication, forms, and database handling in Django<br>Learning by practice, fixing bugs, and improving projects step by step
+🎓 MCA graduate with a strong interest in AI, Machine Learning, and Deep Learning  
+🐍 Comfortable with Python and basic Data Science concepts  
+👁️ Currently learning Computer Vision and real-world ML model deployment  
+🌐 Enjoy building projects using Django and exploring AI integration with web apps  
+🚀 Actively improving skills through projects and eager to learn new things  
+🔐 Exploring authentication, forms, and database handling in Django  
+🛠️ Learning by practice, fixing bugs, and improving projects step by step
 
 
 ## 🌐 Socials:
