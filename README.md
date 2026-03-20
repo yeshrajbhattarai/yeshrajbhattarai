@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 🎓 MCA graduate with a strong interest in AI, Machine Learning, and Deep Learning  
 🐍 Comfortable with Python and basic Data Science concepts  
 👁️ Currently learning Computer Vision and real-world ML model deployment  
